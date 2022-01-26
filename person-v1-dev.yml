@@ -16,8 +16,8 @@ spring:
     timeOfLife: 60000
 springdoc:
   api-docs:
-    path: /docs/v3/openapi
+    path: /openapi
   swagger-ui:
-    path: /docs/v3/index.html
+    path: /openapi/index.html
 server:
   port: 8080
